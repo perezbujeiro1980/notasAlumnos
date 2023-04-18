@@ -1,0 +1,4 @@
+C:\proyectos\C#\notasAlumnos\notasAlumnos\bin\Debug\notasAlumnos.exe
+C:\proyectos\C#\notasAlumnos\notasAlumnos\bin\Debug\notasAlumnos.pdb
+C:\proyectos\C#\notasAlumnos\notasAlumnos\obj\x86\Debug\notasAlumnos.exe
+C:\proyectos\C#\notasAlumnos\notasAlumnos\obj\x86\Debug\notasAlumnos.pdb
